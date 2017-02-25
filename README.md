@@ -1,6 +1,17 @@
 # Web-Securities-Labs
 codepath Web Securities labs
 
+## Week 1
+Insecure Direct Object Reference:
+1) Go to https://facebook.com. What is the Cache-Control header set to in the response? Enter as a comma-delimited list below. Order doesn't matter, and values are case insensitive. 
+``` private, no-cache, no-store, must-revalidate ```
+
+2) What is the URI for liking a Facebook post on your homepage? Hint: https://www.quora.com/What-does-Facebook-refer-to-as-UFI
+``` /ufi/reaction/?dpr=1 ```
+
+3) When posting your status to Facebook, which query parameter contains the text of your message? Hint: Make sure you're not filtering out URIs like: ajax/updatestatus 
+``` xhpc_message_text```
+
 ## Week 2
 SQL injections:
 1) To complete this challenge, you must exploit SQL injection flaw in the following form to find the result key.
