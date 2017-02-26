@@ -44,3 +44,4 @@ Please enter the Search Term that you want to look up
 3) In this one, the developer is completely removing the handler name. 
 ``` <SCRonmessageIPT>alert('XSS')</SCRonmessageIPT>```
 
+4) Huh
