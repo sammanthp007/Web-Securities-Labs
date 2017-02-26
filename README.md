@@ -10,7 +10,7 @@ Insecure Direct Object Reference:
 ``` /ufi/reaction/?dpr=1 ```
 
 3) When posting your status to Facebook, which query parameter contains the text of your message? Hint: Make sure you're not filtering out URIs like: ajax/updatestatus 
-``` xhpc_message_text```
+``` xhpc_message_text ```
 
 ## Week 2
 SQL injections:
