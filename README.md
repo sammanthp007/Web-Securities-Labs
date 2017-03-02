@@ -44,4 +44,7 @@ Please enter the Search Term that you want to look up
 3) In this one, the developer is completely removing the handler name. 
 ``` <SCRonmessageIPT>alert('XSS')</SCRonmessageIPT> ```
 
-4) Huh
+4) Demonstrate a XSS vulnerability in the following form by executing a JavaScript alert command. The developers had heard that escaping is a better way of fixing XSS issues but they were not totally clear on how to implement it.
+
+Please enter the URL that you wish to post to your public profile;
+``` http://www.google.com" oNmessage=alert()> ```
