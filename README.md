@@ -69,4 +69,8 @@ What TCP port does the HTTP protocol commonly use?
 80
 
 
-Questions
+What is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application? (three words)
+Command injection (not working right now)
+
+What TCP port does HTTPS commonly use?
+443
