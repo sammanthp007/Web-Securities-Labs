@@ -48,3 +48,25 @@ Please enter the Search Term that you want to look up
 
 Please enter the URL that you wish to post to your public profile;
 ``` http://www.google.com" oNmessage=alert()> ```
+
+## Week 12
+
+Question answers:
+
+Name of a database of information-security vulnerabilities maintained with funding from the US government. Identifiers for this database are a popular way to reference vulnerabilities (1 word, acronym):
+CVE
+
+What is the name of a large network of compromised machines?
+botnet
+
+What is the name of the hacking technique often used to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication? 
+Phising
+
+V arire zvff n orng
+rot13
+
+What TCP port does the HTTP protocol commonly use?
+80
+
+
+Questions
