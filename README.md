@@ -53,24 +53,24 @@ Please enter the URL that you wish to post to your public profile;
 
 Question answers:
 
-Name of a database of information-security vulnerabilities maintained with funding from the US government. Identifiers for this database are a popular way to reference vulnerabilities (1 word, acronym):
-CVE
+1. Name of a database of information-security vulnerabilities maintained with funding from the US government. Identifiers for this database are a popular way to reference vulnerabilities (1 word, acronym):
+> CVE
 
-What is the name of a large network of compromised machines?
-botnet
+2. What is the name of a large network of compromised machines?
+> botnet
 
-What is the name of the hacking technique often used to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication? 
-Phising
+3. What is the name of the hacking technique often used to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication? 
+> Phising
 
-V arire zvff n orng
-rot13
+4. V arire zvff n orng
+> rot13
 
-What TCP port does the HTTP protocol commonly use?
-80
+5. What TCP port does the HTTP protocol commonly use?
+> 80
 
 
-What is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application? (three words)
-Command injection (not working right now)
+6. What is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application? (three words)
+> Command injection (not working right now)
 
-What TCP port does HTTPS commonly use?
-443
+7. What TCP port does HTTPS commonly use?
+> 443
