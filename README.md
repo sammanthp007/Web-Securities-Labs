@@ -1,5 +1,5 @@
 # Web-Securities-Labs
-codepath Web Securities labs
+Codepath Web Securities labs
 
 ## Week 1
 Insecure Direct Object Reference:
